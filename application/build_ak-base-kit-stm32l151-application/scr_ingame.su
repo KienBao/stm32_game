@@ -1,0 +1,9 @@
+sources/app/screens/scr_ingame.cpp:169:6:void view_scr_ingame()	48	static
+/home/bao/tool/gcc-arm-none-eabi-10.3-2021.10-x86_64-linux/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/vector.tcc:426:7:) [with _Args = {const coral&}; _Tp = coral; _Alloc = std::allocator<coral>]	40	static
+/home/bao/tool/gcc-arm-none-eabi-10.3-2021.10-x86_64-linux/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/vector.tcc:426:7:) [with _Args = {const boom&}; _Tp = boom; _Alloc = std::allocator<boom>]	48	static
+/home/bao/tool/gcc-arm-none-eabi-10.3-2021.10-x86_64-linux/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/vector.tcc:184:5:std::vector<_Tp, _Alloc>::iterator std::vector<_Tp, _Alloc>::_M_erase(std::vector<_Tp, _Alloc>::iterator, std::vector<_Tp, _Alloc>::iterator) [with _Tp = boom; _Alloc = std::allocator<boom>]	16	static
+/home/bao/tool/gcc-arm-none-eabi-10.3-2021.10-x86_64-linux/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/vector.tcc:184:5:std::vector<_Tp, _Alloc>::iterator std::vector<_Tp, _Alloc>::_M_erase(std::vector<_Tp, _Alloc>::iterator, std::vector<_Tp, _Alloc>::iterator) [with _Tp = bullet; _Alloc = std::allocator<bullet>]	16	static
+/home/bao/tool/gcc-arm-none-eabi-10.3-2021.10-x86_64-linux/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/vector.tcc:426:7:) [with _Args = {const bullet&}; _Tp = bullet; _Alloc = std::allocator<bullet>]	48	static
+sources/app/screens/scr_ingame.cpp:200:6:void scr_ingame_handle(ak_msg_t*)	104	static
+sources/app/screens/scr_ingame.cpp:335:1:cpp)	0	static
+sources/app/screens/scr_ingame.cpp:335:1:cpp)	8	static

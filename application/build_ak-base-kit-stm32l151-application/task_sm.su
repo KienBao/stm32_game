@@ -1,0 +1,6 @@
+sources/app/task_sm.cpp:36:6:void in1(ak_msg_t*)	0	static
+sources/app/task_sm.cpp:42:6:void in2(ak_msg_t*)	0	static
+sources/app/task_sm.cpp:47:6:void in3(ak_msg_t*)	0	static
+sources/app/task_sm.cpp:52:6:void in4(ak_msg_t*)	0	static
+sources/app/task_sm.cpp:83:6:void task_sm(ak_msg_t*)	0	static
+sources/app/task_sm.cpp:88:6:void slStateMachineOnState(tsm_state_t)	0	static

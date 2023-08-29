@@ -1,0 +1,4 @@
+sources/app/screens/game_UI.cpp:60:6:void view_scr_gameUI()	0	static
+sources/app/screens/game_UI.cpp:64:6:void view_scr_earth()	0	static
+sources/app/screens/game_UI.cpp:68:6:void view_scr_star()	0	static
+sources/app/screens/game_UI.cpp:39:6:void scr_gameUI_handle(ak_msg_t*)	8	static

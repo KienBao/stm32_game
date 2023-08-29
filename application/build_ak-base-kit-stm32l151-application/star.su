@@ -1,0 +1,3 @@
+sources/app/star.cpp:23:6:void star_img()	24	static
+sources/app/star.cpp:28:6:void star_move()	0	static
+sources/app/star.cpp:12:6:void star(ak_msg_t*)	0	static

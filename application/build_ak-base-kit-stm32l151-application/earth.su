@@ -1,0 +1,3 @@
+sources/app/earth.cpp:24:6:void earth_img()	24	static
+sources/app/earth.cpp:28:6:void earth_move()	0	static
+sources/app/earth.cpp:13:6:void earth(ak_msg_t*)	0	static
